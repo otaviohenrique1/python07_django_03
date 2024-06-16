@@ -1,6 +1,6 @@
-# python06_django_02
+# python07_django_03
 
-Projeto do curso "Django persistência de dados e Admin" da Alura
+Projeto do curso "Django autenticação de formulários e alerta" da Alura
 
 ## Links
 
