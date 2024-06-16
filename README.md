@@ -51,3 +51,10 @@ Projeto do curso "Django autenticação de formulários e alerta" da Alura
 - python manage.py migrate => roda a migration
 - python manage.py shell => abre o shell do Django
 - python manage.py createsuperuser => cria o super usuario
+
+### Comandos para inicializar o projeto
+
+1. python -m virtualenv .venv
+2. pip install -r requirements.txt
+3. source venv/scripts/activate
+4. python manage.py runserver
